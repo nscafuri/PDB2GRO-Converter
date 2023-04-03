@@ -5,7 +5,10 @@ with only the atoms within a specified range of residue IDs specified by the use
 
 Execution
 
-The script accepts either a PDB file or a GRO file as an argument: python3 code.py "file".pdb ("file".gro)
+The script accepts either a PDB file or a GRO file as an argument
+
+"python3 code.py file.pdb (or file.gro)
+
 The script was tested with Python 3.8.10
 
 
