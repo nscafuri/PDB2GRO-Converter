@@ -7,7 +7,7 @@ Execution
 
 The script accepts either a PDB file or a GRO file as an argument
 
-"python3 code.py file.pdb (or file.gro)
+python3 code.py file.pdb (or file.gro)
 
 The script was tested with Python 3.8.10
 
